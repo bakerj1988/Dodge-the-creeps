@@ -5,6 +5,6 @@
 <p>I used the same steps used in <a href="https://docs.godotengine.org/en/3.1/getting_started/step_by_step/your_first_game.html"> "Your first game". </a>This version has my own tweaks.</p>
 
 <div>
-<img src="images/Screenshot from 2019-05-31 18-00-14.png" alt="a screenshot">
-<img src="images/Screenshot from 2019-05-31 18-00-14.png" alt="another screenshot">
+<img src="images/Screenshot from 2019-05-31 18-00-14.png" alt="a screenshot" width=175px height=175px> <img src="images/Screenshot from 2019-05-31 18-04-52.png" alt="another screenshot" width=175px height=175px>
 </div>
+ 
